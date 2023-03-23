@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.card {
+  background-color: #f8f8ff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 32px;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  margin: 5px;
+}
+.img {
+  width: 100px;
+}
+.name {
+  color: #e73959;
+  font-size: 20px;
+}
+.count {
+  display: flex;
+}
+.logo {
+  width: 13px;
+  margin: 5px;
+}
+.p1 {
+  color: #1e293b;
+  font-size: 14px;
+  margin: 5px;
+}
